@@ -2,12 +2,12 @@
 Banco de dados criado com base nos Scripts da pasta [Desafio de Projeto](https://github.com/julianazanelatto/power_bi_analyst/tree/main/M%C3%B3dulo%203/Desafio%20de%20Projeto) no git hub
 
 ### Criação de uma instância na Azure para MySQL:
-1 - Criado o servidor MYSQL para receber o banco de dados;
-2 - Conectado o Cloud Shell;
-3 - Criado a conexão com o armazenamento;
-4 - Criado Banco de dados a partir do script existente e populado;
-5 - Criado as permissões necessárias para acesso ao banco de dados;
-6 - Conectado o Azure ao Workbench;
+1 - Criado o servidor MYSQL para receber o banco de dados;  
+2 - Conectado o Cloud Shell;  
+3 - Criado a conexão com o armazenamento;  
+4 - Criado Banco de dados a partir do script existente e populado;  
+5 - Criado as permissões necessárias para acesso ao banco de dados;  
+6 - Conectado o Azure ao Workbench;  
 7 - Integrado o Power BI com MySQL na Azure.
 
 ### 1 - Verifique os cabeçalhos e tipos de dados 
