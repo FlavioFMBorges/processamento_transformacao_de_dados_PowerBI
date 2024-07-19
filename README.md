@@ -60,8 +60,6 @@ Banco de dados criado com base nos Scripts da pasta [Desafio de Projeto](https:/
 ![Colaboradores e Gerentes](imagens/11_employees_managers.png)
 
     Também pode ser feito pelo código SQL
-    select e1.Super_ssn, concat(e1.Fname, ' ', e1.Minit, ' ', e1.Lname) as Empregados, # Nome dos empregados
-
 ```
 select e1.Super_ssn, concat(e1.Fname, ' ', e1.Minit, ' ', e1.Lname) as Empregados, # Nome dos empregados
 concat(e2.Fname, ' ', e2.Minit, ' ', e2.Lname) as Gerentes
